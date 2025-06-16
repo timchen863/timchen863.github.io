@@ -16,4 +16,5 @@ main-image: /hextechdemo.jpg
 
 ---
 # Engineering Drawing
-![Full Assembly Drawing](./FullAssemblyDrawing.png)
+/FullAssemblyDrawing.png
+Full Assembly Drawing
