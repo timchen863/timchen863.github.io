@@ -16,5 +16,6 @@ main-image: /hextechdemo.jpg
 
 ---
 # Engineering Drawing
+<img src="{{ include.images }}" height="{{ include.height }}">
 {% include image-gallery.html images="hextechdemo.jpg" height="400" %}
 Full Assembly Drawing
