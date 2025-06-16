@@ -16,3 +16,4 @@ main-image: /hextechdemo.jpg
 
 ---
 # Engineering Drawing
+engineering_drawing: /
