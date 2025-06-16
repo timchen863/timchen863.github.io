@@ -11,5 +11,5 @@ skills:
   - Soldering
   - CAD
 
-main-image: 
+main-image: /hextechdemo.jpg
 ---
