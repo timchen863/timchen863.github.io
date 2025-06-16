@@ -15,9 +15,10 @@ title: Tim's Portfolio # This is what shows up in the tab of the browser
 name: Hsin-Ting (Tim) Chen
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ As a Mechanical Engineering student at the University of Illinois Urbana-Champaign, I bring a strong foundation in design, simulation, and fabrication, complemented by hands-on experience in competitive engineering teams like Baja SAE and Combots Robotics. 
+ My work spans FEA analysis in Ansys, 3D CAD modeling in Fusion 360 and PTC Creo, and real-world prototyping through CNC machining, welding, and 3D printing. 
+ I’ve led the design of off-road vehicle systems under extreme load conditions and developed robotics solutions optimized for performance and cost-efficiency. 
+This portfolio showcases selected projects that demonstrate my drive to engineer practical, innovative solutions through thoughtful design and rigorous testing.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
