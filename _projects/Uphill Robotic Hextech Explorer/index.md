@@ -10,4 +10,6 @@ skills:
   - 3D Printing
   - Soldering
   - CAD
+
+main-image: 
 ---
