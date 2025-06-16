@@ -13,7 +13,7 @@ title: Tim's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Hsin-Ting (Tim) Chen
-headline: headline message
+headline: Mechanical Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
  As a Mechanical Engineering student at the University of Illinois Urbana-Champaign, I bring a strong foundation in design, simulation, and fabrication, complemented by hands-on experience in competitive engineering teams like Baja SAE and Combots Robotics. 
  My work spans FEA analysis in Ansys, 3D CAD modeling in Fusion 360 and PTC Creo, and real-world prototyping through CNC machining, welding, and 3D printing. 
@@ -52,40 +52,26 @@ skills:
     - Solidworks
     - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
+    - SolidWorks
   - category: Prototyping
     tools:
-    - SLA
+    - 3D Printing
     - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
     - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
+    - Welding
   - category: Design Standards / Practices
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+    - GD&T 
+    - DFM
+    - BOM Management
+    - System Assembly
+  - category: Analysis & Simulation
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
-    tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - Ansys (FEA)
+    - Autodesk Fusion 360 (FEA)
+    - MATLAB 
+    - Python
+  
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
