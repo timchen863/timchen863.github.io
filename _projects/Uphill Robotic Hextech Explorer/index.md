@@ -16,5 +16,5 @@ main-image: /hextechdemo.jpg
 
 ---
 # Engineering Drawing
-/FullAssemblyDrawing.png
+{% include image-gallery.html images="/FullAssemblyDrawing.png" height="400" %}
 Full Assembly Drawing
