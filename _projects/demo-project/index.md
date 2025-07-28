@@ -16,6 +16,14 @@ main-image: /roscovision.png
 ---
 ## Disassembly and Sectioned View
 {% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="250" %}
+## Reflection
+Working on this project helped me grow in ways I didn’t fully expect. It was the first time I really had to think about design, not just in terms of how things look or fit, but how they’ll actually be built, assembled, and function in the real world. Balancing internal space, structural strength, and manufacturability made every decision feel meaningful — and sometimes tough.
+
+I found myself revisiting and reworking details I would’ve overlooked in the past, and in doing so, I became more confident in my ability to handle complexity. I started thinking less like a student doing an assignment and more like an engineer solving a real product challenge.
+
+This experience confirmed that mechanical design is something I genuinely enjoy, especially the process of turning rough ideas into something functional and manufacturable. It made me excited to keep learning, keep building, and keep pushing toward more ambitious projects in the future.
+
+
 <!--## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
