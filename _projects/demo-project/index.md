@@ -28,7 +28,7 @@ Use this to have subsection if needed
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
-### Embeed images
+## Disassembly View
 {% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="400" %} 
 place the images in project folder/images then update the file path.   
 
