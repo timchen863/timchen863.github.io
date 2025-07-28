@@ -10,7 +10,7 @@ skills:
   - Design for Assembly (DFA)
   - Design for Manufacturability (DFM)
 
-main-image: /sdrdfsa.png
+main-image: /roscovision.png
 ---
 
 ---
