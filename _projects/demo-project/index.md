@@ -29,7 +29,12 @@ Use this to have subsection if needed
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ## Disassembly and Sectioned View
-{% include image-gallery.html images="noasm1.png", "noasm2.png", "noasm3.png" height="400" %} 
+{% include image-gallery.html images="noasm1.png", "noasm2.png", "noasm3.png" height="400" %}
+<table><tr>
+<td><img src=noasm1.png border=0></td>
+<td><img src=noasm2.png border=0></td>
+<td><img src=noasm3.png border=0></td>
+</tr></table>
 ## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
