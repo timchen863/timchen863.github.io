@@ -16,7 +16,7 @@ main-image: /roscovision.png
 ---
 ## Disassembly and Sectioned View
 {% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="250" %}
-## Embedding youtube video
+<!--## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
 {% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
@@ -90,6 +90,6 @@ console.log(x);
 | Row 1, Col 1 | Row 1, Col 2 |
 | Row 2, Col 1 | Row 2, Col 2 |
 
-make sure to leave aline betwen the table and the header
+make sure to leave aline betwen the table and the header-->
 
 
