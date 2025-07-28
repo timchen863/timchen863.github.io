@@ -29,9 +29,11 @@ Use this to have subsection if needed
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ## Disassembly and Sectioned View
-{% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="400" %} 
-place the images in project folder/images then update the file path.   
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="/assets/images/noasm1.png" style="height: 200px; object-fit: contain; flex: 1 1 200px;" />
+  <img src="/assets/images/noasm2.png" style="height: 200px; object-fit: contain; flex: 1 1 200px;" />
+  <img src="/assets/images/noasm3.png" style="height: 200px; object-fit: contain; flex: 1 1 200px;" />
+</div>
 
 ## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
