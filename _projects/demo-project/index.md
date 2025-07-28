@@ -30,9 +30,9 @@ You can put in multiple entries. All images will be at a fixed height in the sam
 
 ## Disassembly and Sectioned View
 <table><tr>
-<td><img src=noasm1.png border=0></td>
-<td><img src=noasm2.png border=0></td>
-<td><img src=noasm3.png border=0></td>
+{% include image-gallery.html images="noasm1.png" height="400" %}</td>
+{% include image-gallery.html images="noasm2.png" height="400" %}</td>
+{% include image-gallery.html images="noasm3.png" height="400" %}</td>
 </tr></table>
 ## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
