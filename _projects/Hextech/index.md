@@ -3,19 +3,19 @@ layout: post
 title: Uphill Robotic Hextech Explorer
 description: Developed a 6-legged walking robot to explore efficient locomotion strategies for sloped and uneven terrains. The project aimed to study biomechanically inspired gaits that enhance stability and energy efficiency in incline navigation. Led CAD design in Fusion 360, implementing adaptive leg geometries. Simulated motion in MATLAB to optimize gait patterns, achieving a 15% increase in stride efficiency on a 25° slope. Fabricated parts via 3D printing and laser cutting; assembled and field-tested the robot to evaluate real-world performance.
 skills: 
-  - 3D CAD Modeling (Creo)
-  - Parametric Design
-  - Technical Drawing & Drafting
-  - Tolerance Analysis
-  - Design for Assembly (DFA)
-  - Design for Manufacturability (DFM)
+ - PVA Simulation
+  - MATLAB
+  - Laser Cutting
+  - 3D Printing
+  - Soldering
+  - CAD
 
-main-image: /roscovision.png
+main-image: /hextechdemo.jpg
 ---
 
 ---
 ## Disassembly and Sectioned View
-{% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="250" %}
+{% include image-gallery.html images="fullasm.png" height="250" %}
 ## Reflection
 Working on this project helped me grow in ways I didn’t fully expect. I had to think about design, not just in terms of how things look or fit, but how they’ll actually be built, assembled, and function in the real world. Balancing internal space, structural strength, and manufacturability made every decision feel meaningful — and sometimes tough.
 
