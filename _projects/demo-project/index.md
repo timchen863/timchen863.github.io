@@ -30,9 +30,9 @@ You can put in multiple entries. All images will be at a fixed height in the sam
 
 ## Disassembly and Sectioned View
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/assets/images/noasm1.png" style="height: 200px; object-fit: contain; flex: 1 1 200px;" />
-  <img src="/assets/images/noasm2.png" style="height: 200px; object-fit: contain; flex: 1 1 200px;" />
-  <img src="/assets/images/noasm3.png" style="height: 200px; object-fit: contain; flex: 1 1 200px;" />
+  <img src="noasm1.png" style="height: 200px; object-fit: contain; flex: 1 1 200px;" />
+  <img src="noasm2.png" style="height: 200px; object-fit: contain; flex: 1 1 200px;" />
+  <img src="noasm3.png" style="height: 200px; object-fit: contain; flex: 1 1 200px;" />
 </div>
 
 ## Embedding youtube video
