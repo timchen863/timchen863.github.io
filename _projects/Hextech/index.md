@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI-Powered Dash Camera
+title: Uphill Robotic Hextech Explorer
 description: CAD enclosure design for an AI dash camera using Creo, completed during an internship at VIA Technologies for the company's client, Rosco Vision.
 skills: 
   - 3D CAD Modeling (Creo)
