@@ -19,7 +19,6 @@ main-image: /hextechdemo.jpg
 
 ## Engineering Drawings
 {% include image-gallery.html images="Bracketdrw.png, Legdrw.png" height="400" %}
----
 
 ---
 ## Expense Report
