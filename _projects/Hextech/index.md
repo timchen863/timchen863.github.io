@@ -32,7 +32,30 @@ main-image: /hextechdemo.jpg
 {% include image-gallery.html images="Expense.png" height="400" %}
 ---
 ## Leg Gait + PVA Simulation
-{% include image-gallery.html images="Gait.png, PVA.png" height="400" %}
+<!-- Row: Gait image + YouTube video -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+  
+  <!-- Gait.png -->
+  <div>
+    <img src="Gait.png" alt="Gait Simulation" height="400">
+  </div>
+
+  <!-- YouTube Video -->
+  <div>
+    <iframe width="400" height="225"
+      src="https://www.youtube.com/embed/Y6XETcO8mDM"
+      frameborder="0"
+      allow="autoplay; encrypted-media"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+</div>
+
+<!-- Row: PVA.png below -->
+<div style="margin-top: 20px;">
+  {% include image-gallery.html images="PVA.png" height="400" %}
+</div>
 The robot’s legs based on PVA (Position-Velocity-Acceleration) analysis to mimic an efficient, natural gait. The motion is primarily forward-driven, as shown by the strong X-axis velocity and acceleration patterns, which minimizes wasted energy. The smooth, periodic position curves ensure stable and predictable steps, while controlled vertical motion lifts the foot just enough to clear the ground without unnecessary bouncing. This design balances power, efficiency, and stability—ideal for reliable locomotion in real-world environments.
 ## Reflection
 Working on this project helped me grow in ways I didn’t fully expect. I had to think about design, not just in terms of how things look or fit, but how they’ll actually be built, assembled, and function in the real world. Balancing internal space, structural strength, and manufacturability made every decision feel meaningful — and sometimes tough.
