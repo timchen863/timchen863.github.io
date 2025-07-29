@@ -16,6 +16,7 @@ main-image: /hextechdemo.jpg
 ---
 ## Parts Lists
 {% include image-gallery.html images="fullasm.png, Shellprt.png" height="400" %} 
+
 ## Engineering Drawings
 {% include image-gallery.html images="Bracketdrw.png, Legdrw.png" height="400" %}
 ---
