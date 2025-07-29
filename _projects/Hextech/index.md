@@ -18,6 +18,9 @@ main-image: /hextechdemo.jpg
 {% include image-gallery.html images="fullasm.png, Shellprt.png" height="400" %} 
 ## Engineering Drawings
 {% include image-gallery.html images="Bracketdrw.png, Legdrw.png" height="400" %}
+---
+
+---
 ## Expense Report
 {% include image-gallery.html images="Expense.png" height="400" %}
 Total Project Spending
