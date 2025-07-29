@@ -14,7 +14,7 @@ main-image: /hextechdemo.jpg
 ---
 
 ---
-{% include youtube-video.html id="{HrtTKq3z-FQ}" autoplay= "false"%}
+{% include youtube-video.html id="HrtTKq3z-FQ" autoplay= "false"%}
 
 ## Parts Lists
 {% include image-gallery.html images="fullasm.png, Shellprt.png" height="400" %} 
