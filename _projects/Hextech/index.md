@@ -15,7 +15,8 @@ main-image: /hextechdemo.jpg
 
 ---
 ## Parts Lists & Engineering Drawings
-{% include image-gallery.html images="fullasm.png, Housingasmdrw-1.png, Lbracketdrw-1.png, Leg3FHdrw-1.png" height="400" %}
+{% include image-gallery.html images="fullasm.png" height="400" %}
+{% include image-gallery.html images="Housingasmdrw-1.png, Lbracketdrw-1.png, Leg3FHdrw-1.png" height="800" %}
 ## Reflection
 Working on this project helped me grow in ways I didn’t fully expect. I had to think about design, not just in terms of how things look or fit, but how they’ll actually be built, assembled, and function in the real world. Balancing internal space, structural strength, and manufacturability made every decision feel meaningful — and sometimes tough.
 
