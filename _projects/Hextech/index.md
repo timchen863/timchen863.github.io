@@ -18,6 +18,9 @@ main-image: /hextechdemo.jpg
 {% include image-gallery.html images="fullasm.png, Shellprt.png" height="400" %} 
 ## Engineering Drawings
 {% include image-gallery.html images="Bracketdrw.png, Legdrw.png" height="400" %}
+## Expense Report
+{% include image-gallery.html images="Expense.png" height="400" %}
+Total Project Spending
 ## Reflection
 Working on this project helped me grow in ways I didn’t fully expect. I had to think about design, not just in terms of how things look or fit, but how they’ll actually be built, assembled, and function in the real world. Balancing internal space, structural strength, and manufacturability made every decision feel meaningful — and sometimes tough.
 
