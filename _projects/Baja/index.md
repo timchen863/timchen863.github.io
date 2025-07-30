@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Baja Off-Road Illini SAE
-description: As part of the suspension and chassis team, I helped design and test key components for our off-road vehicle. I used Ansys and Fusion 360 to run FEA and make sure parts could handle 3G dynamic loads with a safety factor of 1.5. I also created CAD models in PTC Creo for parts like tie rods, engine manifold, and shock absorber, and ran thermal analysis on brake rotors to improve durability. Working with the fab team, we cut down build time by 20% through better coordination and design for manufacturability.
+description: As part of the suspension and chassis team, I helped design and test critical components for our off-road vehicle. I used Ansys and Fusion 360 to perform Finite Element Analysis (FEA), ensuring parts could withstand dynamic off-road conditions. I created detailed CAD models in PTC Creo for components such as tie rods, the exhaust manifold, and the shock absorber.
+
+I also collaborated closely with other subteams to improve part integration and streamline the overall build process. This experience strengthened my skills in mechanical design, teamwork, and practical problem-solving in a fast-paced, engineering-driven environment.
 skills: 
  - CAD
  - Soldering
