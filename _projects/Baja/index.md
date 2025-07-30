@@ -15,14 +15,14 @@ main-image: /Baja.jpg
 ---
 
 ---
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  {% include youtube-video.html id="7PXh7vJ46tg" autoplay="true" %}
+{% include youtube-video.html id="7PXh7vJ46tg" autoplay="true" %}
 ---
 
 
 ## CAD Projects
-{% include image-gallery.html images="fullasm.png, Shellprt.png" height="400" %} 
 
+
+## Finite Element Analysis
 
 
 
