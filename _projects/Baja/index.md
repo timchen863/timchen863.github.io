@@ -21,11 +21,7 @@ main-image: /Baja.jpg
 
 ## CAD Projects
 ### Exhaust Manifold
-<div class="image-gallery">
-  {% for image in include.images | split: "," %}
-    <img src="{{ image | strip }}" style="height:{{ include.height }}px; object-fit: contain; width: 100%; max-width: 300px; margin: 10px;">
-  {% endfor %}
-</div>
+{% include image-gallery.html images="EM1.png, EM2.png, EM3.png, EM4.png" height="400" %}
 
 
 ## Finite Element Analysis
