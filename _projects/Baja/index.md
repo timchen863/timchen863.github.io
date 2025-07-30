@@ -26,8 +26,12 @@ main-image: /Baja.jpg
 ---
 
 ## Finite Element Analysis
-> A blockquote would look great if you need to highlight something
-
+- **Max Temp:** 546.6°C  
+- **Min Temp:** 30.3°C  
+- **Gradient shows:** 
+  - Outer brake surface heats up rapidly  
+  - Inner hub remains cooler, acting as a thermal sink  
+  - Matches real rotor behavior under stress
 
 <!--## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
