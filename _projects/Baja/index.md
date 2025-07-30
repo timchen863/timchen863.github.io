@@ -20,14 +20,16 @@ main-image: /Baja.jpg
 
 
 ## Exhaust Manifold
+<br>
 {% include image-gallery.html images="EM1.png, EM2.png, EM3.png" height="300" %}
 ## Shock Absorber
+<br>
 {% include image-gallery.html images="sa1.png" height="400" %}
 ---
 
 ## Finite Element Analysis
-<br><br>
-{% include image-gallery.html images="br.png" height="300" %}
+<br>
+{% include image-gallery.html images="br.png" height="400" %}
 - **Max Temp:** 546.6°C  
 - **Min Temp:** 30.3°C  
 - **Gradient shows:** 
