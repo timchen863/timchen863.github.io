@@ -22,6 +22,8 @@ main-image: /Baja.jpg
 ## CAD Projects
 ### Exhaust Manifold
 {% include image-gallery.html images="EM1.png, EM2.png, EM3.png" height="300" %}
+### Shock Absorber
+
 ---
 
 ## Finite Element Analysis
