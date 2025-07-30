@@ -26,6 +26,7 @@ main-image: /Baja.jpg
 ---
 
 ## Finite Element Analysis
+<br><br>
 {% include image-gallery.html images="br.png" height="300" %}
 - **Max Temp:** 546.6°C  
 - **Min Temp:** 30.3°C  
