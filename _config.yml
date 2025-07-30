@@ -26,8 +26,7 @@ profile_image: ./assets/images/profile-image/Tim.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/18KeSJKcX3j9NCIv0gXm5-jV8lewg5bXJ/view?usp=sharing
-
+resume-url: https://drive.google.com/file/d/1dEvcYFy_aNU-CB2611SmFdH0-nR7PK9N/view?usp=sharing
 
 # Set up external links - this will show up as small icons next to your name.
 
@@ -74,11 +73,11 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:  https://formspree.io/f/xvgrrwdd
+formspree-key: https://formspree.io/f/xvgrrwdd
 
 
 
-# Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
+# Active theme (Updatethis to switch themes). Make sure to keep the indentation the same.
 colors: # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
