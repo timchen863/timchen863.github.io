@@ -31,7 +31,7 @@ resume-url: https://drive.google.com/file/d/1dEvcYFy_aNU-CB2611SmFdH0-nR7PK9N/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/hsin-ting-tim-chen-239baa290/    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: https://www.linkedin.com/in/hsin-ting-tim-chen-239baa290    # https://www.linkedin.com/in/{your url slug} 
   github:     # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
