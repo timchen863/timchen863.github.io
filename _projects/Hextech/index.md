@@ -37,12 +37,6 @@ main-image: /hextechdemo.jpg
 {% include image-gallery.html images="PVA.png" height="400" %}
 The robot’s legs based on PVA (Position-Velocity-Acceleration) analysis to mimic an efficient, natural gait. The motion is primarily forward-driven, as shown by the strong X-axis velocity and acceleration patterns, which minimizes wasted energy. The smooth, periodic position curves ensure stable and predictable steps, while controlled vertical motion lifts the foot just enough to clear the ground without unnecessary bouncing. This design balances power, efficiency, and stability—ideal for reliable locomotion in real-world environments.
 
-## Reflection
-Working on this project helped me grow in ways I didn’t fully expect. I had to think about design, not just in terms of how things look or fit, but how they’ll actually be built, assembled, and function in the real world. Balancing internal space, structural strength, and manufacturability made every decision feel meaningful — and sometimes tough.
-
-I found myself revisiting and reworking details I would’ve overlooked in the past, and in doing so, I became more confident in my ability to handle complexity. I started thinking less like a student doing an assignment and more like an engineer solving a real product challenge.
-
-This experience confirmed that mechanical design is something I genuinely enjoy, especially the process of turning rough ideas into something functional and manufacturable. It made me excited to keep learning, keep building, and keep pushing toward more ambitious projects in the future.
 
 
 <!--## Embedding youtube video
