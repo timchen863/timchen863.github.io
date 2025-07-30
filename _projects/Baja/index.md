@@ -1,24 +1,22 @@
 ---
 layout: post
-title: Uphill Robotic Hextech Explorer
-description: Developed a 6-legged walking robot to explore efficient locomotion strategies for sloped and uneven terrains. The project aimed to study biomechanically inspired gaits that enhance stability and energy efficiency in incline navigation. Led CAD design in Fusion 360, implementing adaptive leg geometries. Simulated motion in MATLAB to optimize gait patterns, achieving a 15% increase in stride efficiency on a 25° slope. Fabricated parts via 3D printing and laser cutting; assembled and field-tested the robot to evaluate real-world performance.
+title: Baja Off-Road Illini SAE
+description: As part of the suspension and chassis team, I helped design and test key components for our off-road vehicle. I used Ansys and Fusion 360 to run FEA and make sure parts could handle 3G dynamic loads with a safety factor of 1.5. I also created CAD models in PTC Creo for parts like tie rods, engine manifold, and shock absorber, and ran thermal analysis on brake rotors to improve durability. Working with the fab team, we cut down build time by 20% through better coordination and design for manufacturability.
 skills: 
- - PVA Simulation
- - Python
- - Laser Cutting
- - 3D Printing
- - Soldering
  - CAD
+ - Soldering
+ - Welding
+ - PTC Creo
  - Autodesk Fusion 360
+ - FEA
+ - Ansys
 
-main-image: /hextechdemo.jpg
+main-image: /Baja.jpg
 ---
 
 ---
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  {% include youtube-video.html id="HrtTKq3z-FQ" autoplay="true" %}
-  {% include youtube-video.html id="a3SusOz41Tw" autoplay="true" %}
-</div>
+  {% include youtube-video.html id="7PXh7vJ46tg" autoplay="true" %}
 ---
 
 
