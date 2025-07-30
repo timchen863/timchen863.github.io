@@ -21,7 +21,7 @@ main-image: /Baja.jpg
 
 ## CAD Projects
 ### Exhaust Manifold
-{% include image-gallery.html images="EM1.png, EM2.png, EM3.png, EM4.png" height="300" %}
+{% include image-gallery.html images="EM1.png, EM2.png, EM3.png" height="300" %}
 ---
 
 ## Finite Element Analysis
