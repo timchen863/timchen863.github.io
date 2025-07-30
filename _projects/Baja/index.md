@@ -19,10 +19,9 @@ main-image: /Baja.jpg
 ---
 
 
-## CAD Projects
-### Exhaust Manifold
+## Exhaust Manifold
 {% include image-gallery.html images="EM1.png, EM2.png, EM3.png" height="300" %}
-### Shock Absorber
+## Shock Absorber
 {% include image-gallery.html images="sa1.png" height="400" %}
 ---
 
