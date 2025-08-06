@@ -14,14 +14,16 @@ title: Tim's Portfolio # This is what shows up in the tab of the browser
 # Hero Section
 name: Hsin-Ting (Tim) Chen
 headline: Mechanical Engineer
-description: >- # dont remove this line. this will ignore all new lines until the next section
+description: | # dont remove this line. this will ignore all new lines until the next section
   Welcome to my page! As an engineer, I believe our role is more than solving equations.
   We’re here to solve real problems that make a difference.
   Through internships, student organizations, and hands-on coursework, I’ve discovered
   that what excites me most is creating solutions that have a real-world impact.
   Whether that means improving safety, streamlining processes, or making everyday life
   a little easier.
+
   This site highlights some of the projects I’ve worked on, from off-road vehicle design to robotics and beyond. Take a look around, and stay tuned. There’s always more in the works.
+
   If you're working on something exciting and think I could contribute, I’d love to connect.
 
 
