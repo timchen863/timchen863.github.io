@@ -2,6 +2,7 @@
 layout: post
 title: AI-Powered Dash Camera
 description: CAD enclosure design for an AI dash camera using Creo, completed during an internship at VIA Technologies for the company's client, Rosco Vision.
+
 skills: 
   - 3D CAD Modeling (PTC Creo)
   - Parametric Design
