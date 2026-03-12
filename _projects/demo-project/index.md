@@ -16,6 +16,10 @@ main-image: /roscovision.png
 ---
 ## Disassembly and Sectioned View
 {% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="250" %}
+## Engineering Challenges
+- Designed enclosure geometry while maintaining PCB clearance and connector alignment.
+- Balanced wall thickness, rib structure, and mounting features for structural durability and injection molding feasibility.
+- Ensured assembly accessibility for connectors and internal components during installation.
 ## Reflection
 Working on this project helped me grow in ways I didn’t fully expect. I had to think about design, not just in terms of how things look or fit, but how they’ll actually be built, assembled, and function in the real world. Balancing internal space, structural strength, and manufacturability made every decision feel meaningful — and sometimes tough.
 
