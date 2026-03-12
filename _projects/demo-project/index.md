@@ -15,6 +15,7 @@ main-image: /roscovision.png
 ---
 
 ## Disassembly and Sectioned View
+
 {% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="250" %}
 
 ## My Role
