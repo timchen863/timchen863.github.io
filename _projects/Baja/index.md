@@ -32,13 +32,14 @@ main-image: /Baja.jpg
 ---
 
 ## Finite Element Analysis
+FEA simulation was used to analyze the thermal behavior of the brake rotor during braking.
 {% include image-gallery.html images="br.png" height="400" %}
 - **Max Temp:** 546.6°C  
 - **Min Temp:** 30.3°C  
-- **Gradient shows:** 
-  - Outer brake surface heats up rapidly  
-  - Inner hub remains cooler, acting as a thermal sink  
-  - Matches real rotor behavior under stress
+### Observations
+- Outer rotor surfaces experience rapid heating
+- Inner hub remains cooler, acting as a thermal sink
+- Temperature gradient aligns with expected rotor behavior under braking loads
 
 <!--## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
