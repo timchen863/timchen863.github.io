@@ -12,11 +12,11 @@ skills:
 
 main-image: /roscovision.png
 ---
+## Disassembly and Sectioned View
+{% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="250" %}
 ## My Role
 - Designed the mechanical enclosure in PTC Creo (Pro/E)
 - Modeled mounting features, connector interfaces, and internal rib structures
-## Disassembly and Sectioned View
-{% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="250" %}
 ## Engineering Challenges
 - Designed enclosure geometry while maintaining PCB clearance and connector alignment.
 - Balanced wall thickness, rib structure, and mounting features for structural durability and injection molding feasibility.
