@@ -21,12 +21,11 @@ main-image: /roscovision.png
 - Designed enclosure geometry while maintaining PCB clearance and connector alignment.
 - Balanced wall thickness, rib structure, and mounting features for structural durability and injection molding feasibility.
 - Ensured assembly accessibility for connectors and internal components during installation.
-## Reflection
-Working on this project helped me grow in ways I didn’t fully expect. I had to think about design, not just in terms of how things look or fit, but how they’ll actually be built, assembled, and function in the real world. Balancing internal space, structural strength, and manufacturability made every decision feel meaningful — and sometimes tough.
-
-I found myself revisiting and reworking details I would’ve overlooked in the past, and in doing so, I became more confident in my ability to handle complexity. I started thinking less like a student doing an assignment and more like an engineer solving a real product challenge.
-
-This experience confirmed that mechanical design is something I genuinely enjoy, especially the process of turning rough ideas into something functional and manufacturable. It made me excited to keep learning, keep building, and keep pushing toward more ambitious projects in the future.
+## Key Takeaways
+- Mechanical enclosure design requires balancing internal component packaging, structural durability, and manufacturability rather than focusing only on part geometry.
+- Small design decisions such as rib placement, wall thickness, and connector clearance can significantly affect assembly compatibility and production feasibility.
+- Iterative CAD modeling and revisiting design details were essential to ensuring proper fit between the enclosure and internal electronic components.
+- This project strengthened my ability to approach mechanical design from a product perspective, considering how parts will be manufactured, assembled, and used in real-world environments.
 
 
 <!--## Embedding youtube video
