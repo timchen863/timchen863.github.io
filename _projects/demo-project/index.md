@@ -12,18 +12,19 @@ skills:
 
 main-image: /roscovision.png
 ---
+
 ## Disassembly and Sectioned View
 {% include image-gallery.html images="noasm1.png, noasm2.png, noasm3.png" height="250" %}
----
+
 ## My Role
 - Designed the mechanical enclosure in PTC Creo (Pro/E)
 - Modeled mounting features, connector interfaces, and internal rib structures
---- 
+
 ## Engineering Challenges
 - Designed enclosure geometry while maintaining PCB clearance and connector alignment.
 - Balanced wall thickness, rib structure, and mounting features for structural durability and injection molding feasibility.
 - Ensured assembly accessibility for connectors and internal components during installation.
----
+
 ## Key Takeaways
 - Mechanical enclosure design requires balancing internal component packaging, structural durability, and manufacturability rather than focusing only on part geometry.
 - Small design decisions such as rib placement, wall thickness, and connector clearance can significantly affect assembly compatibility and production feasibility.
