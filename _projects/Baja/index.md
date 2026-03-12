@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Baja Off-Road Illini SAE
-description: As part of the suspension and chassis team, I helped design and test critical components for our off-road vehicle. I used Ansys and Fusion 360 to perform Finite Element Analysis (FEA), ensuring parts could withstand dynamic off-road conditions. I created detailed CAD models in PTC Creo for components such as tie rods, the exhaust manifold, and the shock absorber. I also collaborated closely with other subteams to improve part integration and streamline the overall build process. This experience strengthened my skills in mechanical design, teamwork, and practical problem-solving in a fast-paced, engineering-driven environment.
+description: As part of the suspension and chassis team for Baja SAE, I designed and analyzed mechanical components for an off-road racing vehicle. I created CAD models in PTC Creo for parts including tie rods, an exhaust manifold, and a shock absorber, and performed Finite Element Analysis (FEA) in ANSYS and Fusion 360 to evaluate structural performance under dynamic off-road loads.
 skills: 
- - CAD
  - Soldering
  - Welding
  - PTC Creo
@@ -18,6 +17,12 @@ main-image: /Baja.jpg
 {% include youtube-video.html id="7PXh7vJ46tg" autoplay="true" %}
 ---
 
+## Design Constraints
+
+- Limited space within the Baja chassis
+- High dynamic loads from off-road driving
+- Manufacturability using available fabrication methods
+- Integration with existing suspension components
 
 ## Exhaust Manifold
 {% include image-gallery.html images="EM1.png, EM2.png, EM3.png" height="300" %}
