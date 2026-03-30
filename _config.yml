@@ -12,7 +12,7 @@ title: Tim's Portfolio # This is what shows up in the tab of the browser
 
 
 # Hero Section
-name: Hsin-Ting (Tim) Chen
+name: Tim Chen
 headline: Mechanical Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Welcome to my page! As an engineer, I believe our role is more than solving equations. We’re here to solve real problems that make a difference. Through internships, student organizations, and hands-on coursework, I’ve discovered that what excites me most is creating solutions that have a real-world impact.
@@ -32,7 +32,7 @@ resume-url: https://drive.google.com/drive/folders/1TKF6jevjm7TzlN8Xpcb7bj3QIR8a
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: hsin-ting-tim-chen-239baa290    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: tim-chen-239baa290    # https://www.linkedin.com/in/{your url slug} 
   github:     # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
